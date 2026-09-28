@@ -68,3 +68,6 @@ fi
 ```sh
 chmod +x .git/hooks/pre-commit
 ```
+
+![alt text](image.png)
+![alt text](image-1.png)
